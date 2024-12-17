@@ -1,2 +1,2 @@
 # bioenv5291.github.io
-bioenv5291.github.io
+데모자료 apk는 같이 포함해서 업로드 하였으며, 사이트에서도 다운로드가 가능합니다.
